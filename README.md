@@ -1,4 +1,4 @@
-# Helmet_Safety_Detection
+<img width="887" height="400" alt="image" src="https://github.com/user-attachments/assets/6f807469-b487-4a9a-9b03-4725a08811bb" /># Helmet_Safety_Detection
 # 🪖 Helmet Detection App  
 
 A **YOLOv11 + Streamlit** application for detecting helmets in **images** and **videos**.  
@@ -19,7 +19,7 @@ and instantly see the original input alongside the processed output with detecti
 ## 🛠️ Tech Stack
 - Python 3.11+
 - Streamlit
-- Ultralytics YOLOv8
+- Ultralytics YOLOv11
 - OpenCV
 - Pillow
 
@@ -27,9 +27,9 @@ and instantly see the original input alongside the processed output with detecti
 
 ## 📂 Project Structure
 helmet-detection-app/
-│── helmet_model/            # Your trained YOLO weights
-│   └── weights/best.pt
-│── app.py                   # Main Streamlit app
+│── RiderSafety.ipynb        # My Notebook
+
+│── helmet_app.py            # Main Streamlit app
 │── requirements.txt         # Dependencies
 │── README.txt               # Project documentation
 
@@ -59,12 +59,12 @@ streamlit run helmet_app.py
 ### Image Detection  
 | Original | Detection |
 |----------|-----------|
-| (Original Image) | (Detection Image) |
+| ![Image Detection Result](Result_img.png)  |
 
 ### Video Detection  
 | Original | Detection |
 |----------|-----------|
-| (Original Video) | (Detection Video) |
+| ![Image Detection Result](Result_video.png) |
 
 ---
 
