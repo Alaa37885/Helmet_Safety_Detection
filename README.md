@@ -1,4 +1,3 @@
-<img width="887" height="400" alt="image" src="https://github.com/user-attachments/assets/6f807469-b487-4a9a-9b03-4725a08811bb" /># Helmet_Safety_Detection
 # 🪖 Helmet Detection App  
 
 A **YOLOv11 + Streamlit** application for detecting helmets in **images** and **videos**.  
