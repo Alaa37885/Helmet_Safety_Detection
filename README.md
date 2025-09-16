@@ -57,13 +57,11 @@ streamlit run helmet_app.py
 ## 📸 Screenshots  
 
 ### Image Detection  
-| Original | Detection |
-|----------|-----------|
+
 | ![Image Detection Result](Result_img.png)  |
 
 ### Video Detection  
-| Original | Detection |
-|----------|-----------|
+
 | ![Image Detection Result](Result_video.png) |
 
 ---
