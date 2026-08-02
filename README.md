@@ -25,13 +25,14 @@ and instantly see the original input alongside the processed output with detecti
 ---
 
 ## 📂 Project Structure
+```text
 helmet-detection-app/
 │── RiderSafety.ipynb        # My Notebook
 
 │── helmet_app.py            # Main Streamlit app
 │── requirements.txt         # Dependencies
 │── README.txt               # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation & Usage
